@@ -10,14 +10,16 @@
 *.class
 
 # generated files
-bin/
+# bin/
+classes/
+res/
 gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Eclipse.gitignore:
-
+.gitignore
 *.pydevproject
 .project
 .metadata
