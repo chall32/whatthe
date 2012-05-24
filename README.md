@@ -23,7 +23,7 @@ Sure, it's re-inventing the wheel, but hey, the best way to learn is by doing.
 ***See the [changelog] for what's new in the most recent release.***
 
 
-### [Click here to download latest version](https://github.com/chall32/WinCDP/blob/master/whatthe.apk?raw=true)
+### [Click here to download latest version](https://sites.google.com/site/chall32/android/whatthe.apk)
 
 [changelog]: https://github.com/chall32/whatthe/blob/master/ChangeLog
 [chall32.blogspot.com]: http://chall32.blogspot.com
