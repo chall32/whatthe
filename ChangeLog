@@ -1,0 +1,46 @@
+0.7 (Beta 3) 18 May 12
+----------------------
+* Comform to Google style guide when launced under Android ice cream sandwich
+* Updated help and about dialogues: Blog URL and everything! 
+
+
+0.6 (Beta 2) - 21 Mar 12
+------------------------
+* Fix Android 4 (Ice Cream Sandwich) launch issue
+* Tweak font size
+
+
+0.5 (Beta 1) - 8 Nov 11
+-----------------------
+* WT logo incorporated through out
+* Added Menus throughout 
+* Refresh menu item now works
+* About info added 
+* Help info added
+* RSS List Font size increased
+
+
+0.4 (Alpha 4) - 3 Nov 11
+------------------------
+* Start Versioning in AndroidManifest.xml
+* Drop "Blog" from app_name
+* Beginnings of a Menu system on initial screen
+
+
+0.3 (Alpha 3) - 31 Oct 11
+-------------------------
+* Menu clean up and iconify
+* Posts open in browser
+* Title bar text set correctly
+* Post load progress shown in title bar
+
+
+0.2 (Alpha 2) - 30 Oct 11
+-------------------------
+* Lots of minor changes
+
+
+0.1 (Alpha 1) - 30 Oct 11
+-------------------------
+* Initial commit
+
